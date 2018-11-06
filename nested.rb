@@ -58,7 +58,7 @@ def dennis_ritchies_language
 programmer_hash[:dennis_ritchie][:languages]
 end
 
-def adding_matz
+def adding_matz.key
 programmer_hash =
  		{
  		  :yukihiro_matsumoto => {
